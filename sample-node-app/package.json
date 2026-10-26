@@ -1,0 +1,8 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "Sample app for testing the Dockerfile generator",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
